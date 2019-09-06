@@ -11,3 +11,14 @@ You can also create lists by using the single dash followed by a space for each 
  - some `code` samples
  - simple lists
  
+ Here is a sample of some C# code in what is called a "fenced block". These are created by enclosing multiple lines of text inside triple back-tics, with the first set of triple-back-tics including a reference to the programming language (for syntax highlighting)
+
+```csharp
+public static void Main(string[] args)
+{
+    // The canonical "first program"
+    Console.WriteLine("Hellow World");
+}
+```
+
+This is a really good way to make useful notes. 😁
