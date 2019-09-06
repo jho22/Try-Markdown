@@ -22,3 +22,14 @@ public static void Main(string[] args)
 ```
 
 This is a really good way to make useful notes. 😁
+
+## Making Commits
+
+The key to using markdown and git for taking notes or doing any kind of software development is to 
+
+- Make frequent commits
+- Use meaningful messages in your commits
+
+It takes a bit of discipline, but it pays off in the end
+
+![Commit Messages](https://imgs.xkcd.com/comics/git_commit.png)
