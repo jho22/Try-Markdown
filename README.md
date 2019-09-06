@@ -17,7 +17,7 @@ You can also create lists by using the single dash followed by a space for each 
 public static void Main(string[] args)
 {
     // The canonical "first program"
-    Console.WriteLine("Hellow World");
+    Console.WriteLine("Hello World");
 }
 ```
 
@@ -33,3 +33,14 @@ The key to using markdown and git for taking notes or doing any kind of software
 It takes a bit of discipline, but it pays off in the end
 
 ![Commit Messages](https://imgs.xkcd.com/comics/git_commit.png)
+
+## DMIT-1508 Notes
+
+Your instructor has provided some [online notes](https://dmit-1508.github.io) for your use. Take a look at the **About** page on that site.
+
+To learn more about using Markdown, try out the GitHub lab ["Communicating using Markdown"](https://lab.github.com/githubtraining/communicating-using-markdown). You should also take a look at the following Learning Paths that GitHub offers.
+
+- [First Day on GitHub](https://lab.github.com/githubtraining/paths/first-day-on-github)
+- [First Week on GitHub](https://lab.github.com/githubtraining/paths/first-week-on-github)
+
+Also check out [your instructor's GitHub profile](https://github.com/dgilleland).
